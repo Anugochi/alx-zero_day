@@ -1,0 +1,10 @@
+git clone
+git config user.email
+git config user.name
+git commit -m "message".
+git checkout -b <branch>
+git status
+git add .
+git pull
+git log
+git push
